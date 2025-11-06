@@ -1,4 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Josef 
+
+💼 IT Automation Engineer | IBM Workload Scheduler SME | DevOps Enthusiast
+
+- 🧩 Focused on: Red Hat, Python, PowerShell, and Cloud (AWS basics)
+- ⚙️ Building automation for scheduling, monitoring, and reporting
+- 🌱 Currently learning advanced PowerShell scripting & Python PCAP
+- 🏗️ Open to freelance DevOps
+
+📫 Reach me at: [LinkedIn](https://linkedin.com/in/josefbogner) • 
+
+
+
 
 <!--
 **bognjo/bognjo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
